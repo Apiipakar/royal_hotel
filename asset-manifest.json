@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/royal_hotel/static/css/main.ea7c9d42.css",
+    "main.js": "/royal_hotel/static/js/main.5ad1a553.js",
+    "static/media/single.jpg": "/royal_hotel/static/media/single.ea00bc1fa17bda0fadf2.jpg",
+    "static/media/confrence.jpg": "/royal_hotel/static/media/confrence.e45b5d54cda65ccbdb28.jpg",
+    "static/media/hotelFront.jpg": "/royal_hotel/static/media/hotelFront.3fb8230aa29f69d3949c.jpg",
+    "static/media/yammyFood.jpg": "/royal_hotel/static/media/yammyFood.1d47eec0e27cff8973f9.jpg",
+    "static/media/pool.jpg": "/royal_hotel/static/media/pool.0471650dbcf09910d369.jpg",
+    "static/media/theater.jpg": "/royal_hotel/static/media/theater.2cfd423a666195fb0255.jpg",
+    "static/media/foods.jpg": "/royal_hotel/static/media/foods.a5fefa91463979900d99.jpg",
+    "static/media/internet.jpg": "/royal_hotel/static/media/internet.568ba3e8661064792bff.jpg",
+    "static/media/wedding.jpg": "/royal_hotel/static/media/wedding.8ffa0f9f9a734fddd44b.jpg",
+    "static/media/gym.jpg": "/royal_hotel/static/media/gym.67ef7a2622b744ecdaba.jpg",
+    "static/media/mosque.jpg": "/royal_hotel/static/media/mosque.e75b175561b85a5d82e4.jpg",
+    "static/media/couble.jpg": "/royal_hotel/static/media/couble.0f6ce0f178b6e22dca3a.jpg",
+    "static/media/familyRoom.jpg": "/royal_hotel/static/media/familyRoom.7040b63fbaa1224aba21.jpg",
+    "static/media/room.jpeg": "/royal_hotel/static/media/room.f70430b18b5e3e79273a.jpeg",
+    "index.html": "/royal_hotel/index.html",
+    "main.ea7c9d42.css.map": "/royal_hotel/static/css/main.ea7c9d42.css.map",
+    "main.5ad1a553.js.map": "/royal_hotel/static/js/main.5ad1a553.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea7c9d42.css",
+    "static/js/main.5ad1a553.js"
+  ]
+}

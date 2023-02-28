@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/royal_hotel/static/css/main.ea7c9d42.css",
-    "main.js": "/royal_hotel/static/js/main.5ad1a553.js",
+    "main.js": "/royal_hotel/static/js/main.4e5fd0cb.js",
     "static/media/single.jpg": "/royal_hotel/static/media/single.ea00bc1fa17bda0fadf2.jpg",
     "static/media/confrence.jpg": "/royal_hotel/static/media/confrence.e45b5d54cda65ccbdb28.jpg",
     "static/media/hotelFront.jpg": "/royal_hotel/static/media/hotelFront.3fb8230aa29f69d3949c.jpg",
@@ -18,10 +18,10 @@
     "static/media/room.jpeg": "/royal_hotel/static/media/room.f70430b18b5e3e79273a.jpeg",
     "index.html": "/royal_hotel/index.html",
     "main.ea7c9d42.css.map": "/royal_hotel/static/css/main.ea7c9d42.css.map",
-    "main.5ad1a553.js.map": "/royal_hotel/static/js/main.5ad1a553.js.map"
+    "main.4e5fd0cb.js.map": "/royal_hotel/static/js/main.4e5fd0cb.js.map"
   },
   "entrypoints": [
     "static/css/main.ea7c9d42.css",
-    "static/js/main.5ad1a553.js"
+    "static/js/main.4e5fd0cb.js"
   ]
 }
